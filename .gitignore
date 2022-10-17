@@ -1,0 +1,11 @@
+*.synctex.gz
+~*
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+.DS_Store
